@@ -1,4 +1,4 @@
-# know-me-chalk-markOne
+# How well do you know me?
 
 Hey! I have made this fun quiz 'How well do you know me?' about me. 
 Test yourself how well do you know me.
