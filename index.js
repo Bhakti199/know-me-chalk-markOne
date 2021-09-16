@@ -28,6 +28,7 @@ function play(question, answer) {
 
     score = score - 1;
   }
+  console.log(chalk.red("Your current score is : " +score));
 }
 
 var question = [{
@@ -39,11 +40,11 @@ var question = [{
   answer: "Amravati"
 },
 {
-  question: "Which is my favrate color? ",
+  question: "Which is my favorite color? ",
   answer: "White"
 },
 {
-  question: "What is my favrate food? ",
+  question: "What is my favorite food? ",
   answer: "Puranpoli"
 },
 {
